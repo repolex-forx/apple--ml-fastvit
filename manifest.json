@@ -1,0 +1,40 @@
+{
+  "manifest_version": "1.0",
+  "org": "apple",
+  "repo": "ml-fastvit",
+  "versions": [
+    {
+      "commit": "441ad35437f14b3b13f37ac391726e096d4e0e72",
+      "parsed_at": "2026-11-06T07:52:27.626721+00:00",
+      "filetree": "filetree/441ad35437f14b3b13f37ac391726e096d4e0e72.nq.gz",
+      "blobs": [
+        "blob/db3e723822e9efe6a57c23d540b92b9a48e9cf29.nq.gz",
+        "blob/6f0363ea7a219828345fb8901ccf098a152e3eed.nq.gz",
+        "blob/b71a2698eaf2b2b549ad067534fd3645568e3d8f.nq.gz",
+        "blob/54a5a14f3d5fa8d6b1b0305990ae179221f64b23.nq.gz",
+        "blob/38675e743f5c1b72c67749e53aa1cff27749c5ce.nq.gz",
+        "blob/ba9db6118dcad815fa4ca3a620bc89328a8e50a0.nq.gz",
+        "blob/ef52fcb78b8e2ddf2ce56c5cda9eff876b1206df.nq.gz",
+        "blob/1aafce737c3cd106bcf118016d5f870960269779.nq.gz",
+        "blob/426704eed499ee3901b3fa968176f5bd2a9cf154.nq.gz",
+        "blob/c7a9b0d0a49f92c9730cd4194e73e61930af2cdc.nq.gz",
+        "blob/4078c3a4d368d672dc3cfffc27a7e75c01342507.nq.gz",
+        "blob/1e2ee9cbb6a667b9f5fe364d991fa763f6af3e2e.nq.gz",
+        "blob/2af0157fbec55c216e06ef9a55f4a98e13a29d46.nq.gz",
+        "blob/56ee291cff411ba879fe54a02b50b8ccd9d36003.nq.gz",
+        "blob/d6e0eb7a480d0a6603bfadcf2476df097ae4ab24.nq.gz",
+        "blob/82601f0ab5a9e532be9dd57f454b02fb26348149.nq.gz",
+        "blob/97d350dd23d63a4bed6267014002f22f2b920913.nq.gz",
+        "blob/dcd560d6da419932d30d2a050d56e8263e1d1ffc.nq.gz",
+        "blob/660677a087c6f3d800806929b5d544bdc3c15a2c.nq.gz",
+        "blob/bc67583aa0a4673f63151b11196d42ea514c39e1.nq.gz",
+        "blob/6cc4a3612f7d7ce639d1b333bd0e110e930ff759.nq.gz",
+        "blob/50b5c56c8624c4981b0522a8f40a85f2b2a6b0a8.nq.gz",
+        "blob/dade95935e263d349498d7d4d8a4bac9c1ef6267.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
